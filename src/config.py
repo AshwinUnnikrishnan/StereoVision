@@ -1,0 +1,10 @@
+DATA = r'D://Academics/Computer Vision/Project 6/StereoVision/data'
+CAMERA1 = 2
+CAMERA2 = 0
+CALIBLOGFILE = "logging/calibration.log"
+CML = './calibration/CameraMatrixL.pkl'
+CMR = './calibration/CameraMatrixR.pkl'
+DCL = './calibration/CameraDistCoeffL.pkl'
+DCR = './calibration/CameraDistCoeffR.pkl'
+DATALOC = "data/"
+CALIBLOC = "calibration/"
